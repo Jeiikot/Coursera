@@ -13,7 +13,7 @@ mostrar el proyecto final para las personas que no han podido progresar con el m
 	- Ordenamiento
 	- Herencia
 	- Interfaz Gráfica
-
+# Imagen de la Interfaz Grafica del Programa
 ![Image](Interfaz_SistemaPacientes.jpg)
 
 
