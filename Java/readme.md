@@ -14,4 +14,6 @@ mostrar el proyecto final para las personas que no han podido progresar con el m
 	- Herencia
 	- Interfaz Gráfica
 
+![Image](Interfaz_SistemaPacientes.jpg)
+
 
